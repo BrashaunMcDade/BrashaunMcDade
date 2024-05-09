@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Brashaun Mcdade</h1>
 <h3 align="center">A passionate developer from central Pennsylvania</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u](https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brashaunmcdade&label=Profile%20views&color=0e75b6&style=flat" alt="brashaunmcdade" /> </p>
 
