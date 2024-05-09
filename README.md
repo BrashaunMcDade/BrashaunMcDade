@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **learning everything i can**
 
-- 💬 Ask me about **Ios, and AI**
+- 💬 Ask me about **IOS, and AI**
 
 - 📫 How to reach me **brashaunkmcdade@gmail.com**
 
